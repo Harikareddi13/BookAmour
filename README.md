@@ -13,7 +13,7 @@
 | Resource | Link |
 | :--- | :--- |
 | **Live Site (Render)** | **https://bookamour.onrender.com/about** |
-| **GitHub Repository** | [https://github.com/AnushaReddi02/BookAmour](https://github.com/AnushaReddi02/BookAmour) |
+| **GitHub Repository** | [https://github.com/Harikareddi13/BookAmour.git](https://github.com/Harikareddi13/BookAmour.git) |
 
 ---
 
@@ -38,19 +38,19 @@ To showcase the application's clean design and features, the main views are disp
   <tr>
     <td align="center">
       <h3>Home Page</h3>
-      <img src="https://github.com/AnushaReddi02/BookAmour/blob/main/home.png" alt="Home Page" width="100%"/>
+      <img src="./images/home.png" alt="Home Page" width="100%"/>
       <p>The inviting landing page, serving as the gateway to the digital library.</p>
     </td>
     <td align="center">
       <h3>Genre Page</h3>
-      <img src="https://github.com/AnushaReddi02/BookAmour/blob/main/genre.png" alt="Genre Page" width="100%"/>
+      <img src="./images/genre.png" alt="Genre Page" width="100%"/>
       <p>A focused view of curated book lists, allowing users to discover and engage.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <h3>About Page</h3>
-      <img src="https://github.com/AnushaReddi02/BookAmour/blob/main/about.png" alt="About Page" width="50%"/>
+      <img src="./images/about.png" alt="About Page" width="50%"/>
       <p>Information about the project and its goals, presented with clarity.</p>
     </td>
   </tr>

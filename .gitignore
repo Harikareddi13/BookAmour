@@ -11,6 +11,7 @@ dump/
 Thumbs.db
 
 # Environment / config files (contains DB credentials)
+.env
 config/*.env
 config/db_config.js
 config/database.yml
